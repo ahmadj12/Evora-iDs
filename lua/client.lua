@@ -1,7 +1,18 @@
 --[[ 
-  Protected by Liberty Secure
-  https://liebrty.com/
-  Unauthorized modification is prohibited.
+--        ██████████
+--       ▒▒███▒▒▒▒▒█
+--        ▒███  █ ▒  █████ █████  ██████  ████████   ██████
+--        ▒██████   ▒▒███ ▒▒███  ███▒▒███▒▒███▒▒███ ▒▒▒▒▒███
+--        ▒███▒▒█    ▒███  ▒███ ▒███ ▒███ ▒███ ▒▒▒   ███████
+--        ▒███ ▒   █ ▒▒███ ███  ▒███ ▒███ ▒███      ███▒▒███
+--        ██████████  ▒▒█████   ▒▒██████  █████    ▒▒████████
+--       ▒▒▒▒▒▒▒▒▒▒    ▒▒▒▒▒     ▒▒▒▒▒▒  ▒▒▒▒▒      ▒▒▒▒▒▒▒▒
+--
+--                    Made By : Evora Store
+--                    Discord : discord.gg/EVR
+--                    Thank You For Trusting Us 💕
+--                   !! يرجى عدم التعديل هنا !!
+
 ]]
 -- This file was protected using Luraph Obfuscator v14.7 [https://lura.ph/]
 
